@@ -33,4 +33,4 @@ This project analyzes Zomato restaurant data using Python.
 
 ## Author
 
-Your Name
+Gahana Khandelwal
